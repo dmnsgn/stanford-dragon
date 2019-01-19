@@ -15,8 +15,8 @@
   "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughsk.io/)",
   "dependencies": {
     "parse-ply": "^0.1.0",
-    "map-limit": "0.0.0",
-    "glob": "^3.2.9"
+    "map-limit": "0.0.1",
+    "glob": "^7.1.3"
   },
   "repository": {
     "type": "git",
